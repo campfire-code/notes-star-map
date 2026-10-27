@@ -1,0 +1,4 @@
+# 示例笔记按 LF 检出，Windows 上的测试按字节比对
+samples/** text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
