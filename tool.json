@@ -1,0 +1,13 @@
+{
+  "id": "o28",
+  "slug": "notes-star-map",
+  "name": "笔记知识星图",
+  "version": "0.1.0",
+  "repo": "campfire-code/notes-star-map",
+  "license": "MIT",
+  "ui": {
+    "layout": "c",
+    "palette": "rose"
+  },
+  "upstream": null
+}
